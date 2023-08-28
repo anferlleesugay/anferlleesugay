@@ -1,4 +1,4 @@
-
+![logo](https://github.com/anferlleesugay/anferlleesugay/blob/main/Github%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Anferl Lee Sugay</h1>
 <h3 align="center">Aspiring Software Engineer | Aspiring Full Stack Developer | Passion for Programming</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNsMWUyemM5ZGJ4djRjNDJvaWV0MGV1NXo0ZjhkdG0xYzYweDNyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
