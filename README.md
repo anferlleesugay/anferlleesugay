@@ -1,32 +1,110 @@
-![logo](https://github.com/anferlleesugay/anferlleesugay/blob/main/Github%20Banner.gif)
-<h1 align="center">Hi 👋, I'm Anferl Lee Sugay</h1>
-<h3 align="center">Aspiring Software Engineer | Aspiring Full Stack Developer | Passion for Programming</h3>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNsMWUyemM5ZGJ4djRjNDJvaWV0MGV1NXo0ZjhkdG0xYzYweDNyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0a1628&height=200&section=header&text=Anferl%20Lee%20Sugay&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20IT%20Student%20%40%20NU%20Clark&descAlignY=55&descColor=rgba(255,255,255,0.8)" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anferlleesugay&label=Profile%20views&color=0e75b6&style=flat" alt="anferlleesugay" /> </p>
+<div align="center">
+  <a href="https://twitter.com/leeagnstthewrld">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/leeagnstthewrld">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/leediffok">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:alees2604@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=anferlleesugay&style=for-the-badge&color=1D9E75" />
+</div>
 
-- 🔭 I’m currently working on Machine Learning **PRO-001-MLVOICE**
+---
 
-- 🌱 I’m currently learning **C++**
+<img align="right" width="380" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNsMWUyemM5ZGJ4djRjNDJvaWV0MGV1NXo0ZjhkdG0xYzYweDNyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 
-- 💬 Ask me about **Programming**
+### 👋 About Me
+```typescript
+const anferl = {
+  name: "Anferl Lee Sugay",
+  school: "NU Clark - Information Technology",
+  role: "Aspiring Full Stack Developer",
+  location: "Angeles City, Philippines 🇵🇭",
+  currentProject: "TierHome - Budget-Based Housing Finder",
+  learning: ["C++", "Machine Learning", "Laravel"],
+  contact: "alees2604@gmail.com",
+  funFact: "I am a fun and exciting person ⚡"
+};
+```
 
-- 📫 How to reach me **alees2604@gmail.com**
+<br clear="right" />
 
-- ⚡ Fun fact **I am a fun and exciting person**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/leeagnstthewrld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leeagnstthewrld" height="30" width="40" /></a>
-<a href="https://instagram.com/leeagnstthewrld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leeagnstthewrld" height="30" width="40" /></a>
-<a href="https://discord.gg/leediffok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leediffok" height="30" width="40" /></a>
-</p>
+### 🚀 Featured Project
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<a href="https://tierhome-web.vercel.app">
+  <img src="https://img.shields.io/badge/🏠_TierHome-Live_Demo-1D9E75?style=for-the-badge" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anferlleesugay&show_icons=true&locale=en&layout=compact" alt="anferlleesugay" /></p>
+> **TierHome** — A cross-platform housing finder with budget-based ranking algorithms.  
+> Built with **Laravel API + React + MySQL** | Deployed on **Vercel + Railway**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anferlleesugay&show_icons=true&locale=en" alt="anferlleesugay" /></p>
+- 🔐 Secure auth with **Bcrypt** password hashing + **Sanctum** token system
+- 🏆 Smart **tier ranking algorithm** — Optimal Fit, Budget Stretch, High Risk
+- 🌐 Fully deployed and live — tenants search, landlords list
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anferlleesugay&" alt="anferlleesugay" /></p>
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Mobile**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anferlleesugay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=1D9E75&icon_color=1D9E75&text_color=ffffff" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=anferlleesugay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=1D9E75&text_color=ffffff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anferlleesugay&theme=tokyonight&hide_border=true&background=0a1628&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:1D9E75&height=100&section=footer" />
+</div>
