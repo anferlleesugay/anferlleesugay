@@ -2,18 +2,6 @@
 <h3 align="center">Full Stack Developer · Angeles City, Philippines 🇵🇭</h3>
 
 <div align="center">
-  <a href="https://twitter.com/leeagnstthewrld">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/leeagnstthewrld">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/leediffok">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:alees2604@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=anferlleesugay&style=for-the-badge&color=1D9E75" />
 </div>
 
@@ -42,23 +30,6 @@ const anferl = {
 ### 💼 Summary
 
 Junior Full-Stack Developer with over 1 year of hands-on experience building and deploying a real estate web platform using Laravel/PHP and React/JavaScript. Proven ability to design scalable REST APIs, implement role-based authentication, and deliver responsive user interfaces. Recognized for problem-solving, attention to detail, and end-to-end ownership of full-stack projects.
-
----
-
-### 🚀 Featured Project
-
-<a href="https://tierhome-web.vercel.app">
-  <img src="https://img.shields.io/badge/🏠_TierHome-Live_Demo-1D9E75?style=for-the-badge" />
-</a>
-
-> **TierHome** — A full-stack real estate platform for landlords and tenants in Angeles City.  
-> Built with **Laravel/PHP + React + PostgreSQL/MySQL** | Deployed on **Vercel + Railway**
-
-- 🔐 Secure auth with **JWT Authentication** + **AWS Rekognition** identity verification
-- 🏆 Smart **property tier ranking algorithm** — Optimal Fit, Budget Stretch, High Risk
-- 🗺️ **Google Maps** integration for location-based property search
-- ☁️ **AWS S3** for asset storage, SSL-secured production deployment
-- 👥 Role-based access for landlords and tenants
 
 ---
 
