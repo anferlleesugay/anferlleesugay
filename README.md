@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0a1628&height=200&section=header&text=Anferl%20Lee%20Sugay&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20IT%20Student%20%40%20NU%20Clark&descAlignY=55&descColor=rgba(255,255,255,0.8)" />
-</div>
+
 
 <div align="center">
   <a href="https://twitter.com/leeagnstthewrld">
