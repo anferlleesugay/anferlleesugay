@@ -1,5 +1,5 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a1628,55:0f3d3e,100:1D9E75&height=230&section=header&text=Anferl%20Lee%20Sugay&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Network%20%26%20Security%20Nerd&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Anferl Lee Sugay banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:1D9E75&height=220&section=header&text=Anferl%20Lee%20Sugay&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Networking%20%C2%B7%20Cybersecurity&descSize=17&descAlignY=60" width="100%" alt="Anferl Lee Sugay banner" />
 
 <div align="center">
 
@@ -9,7 +9,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=anferlleesugay&style=flat-square&color=1D9E75&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/anferlleesugay?style=flat-square&color=1D9E75&labelColor=0a1628)
-![Repos](https://img.shields.io/github/search/anferlleesugay/repos?style=flat-square&color=1D9E75&labelColor=0a1628&label=repos&query=user%3Aanferlleesugay)
 
 <br/>
 
