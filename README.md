@@ -1,77 +1,87 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:1D9E75&height=200&section=header&text=Anferl%20Lee%20Sugay&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Networking%20%C2%B7%20Cybersecurity&descSize=17&descAlignY=60" width="100%" />
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a1628,55:0f3d3e,100:1D9E75&height=230&section=header&text=Anferl%20Lee%20Sugay&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Network%20%26%20Security%20Nerd&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Anferl Lee Sugay banner" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=640&lines=Building+full-stack+apps+with+Laravel+%26+React;Shipping+mobile+with+Flutter+%26+Kotlin;Breaking+%26+securing+networks+for+fun;Angeles+City%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=1D9E75&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+full-stack+dev+%C2%B7+Angeles+City%2C+PH+%F0%9F%87%B5%F0%9F%87%AD;%24+build+--stack+laravel+react+spring-boot;%24+ship+--platform+web+android+flutter;%24+secure+--vlan+ipsec+pfsense+suricata;%24+open-to+junior+roles+%26+freelance)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=anferlleesugay&style=for-the-badge&color=1D9E75" />
+<br/>
 
-[![Email](https://img.shields.io/badge/Email-alees2604@gmail.com-1D9E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alees2604@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-anferlleesugay-0a1628?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anferlleesugay)
+![Profile views](https://komarev.com/ghpvc/?username=anferlleesugay&style=flat-square&color=1D9E75&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/anferlleesugay?style=flat-square&color=1D9E75&labelColor=0a1628)
+![Repos](https://img.shields.io/github/search/anferlleesugay/repos?style=flat-square&color=1D9E75&labelColor=0a1628&label=repos&query=user%3Aanferlleesugay)
+
+<br/>
+
+[<kbd> 📧 &nbsp;Email me </kbd>](mailto:alees2604@gmail.com)&nbsp;&nbsp;
+[<kbd> 🐙 &nbsp;GitHub </kbd>](https://github.com/anferlleesugay)&nbsp;&nbsp;
+[<kbd> 🚀 &nbsp;TierHome </kbd>](https://tierhome.live)
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<img align="right" width="320" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNsMWUyemM5ZGJ4djRjNDJvaWV0MGV1NXo0ZjhkdG0xYzYweDNyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+### `~/about`
 
-```typescript
-const anferl = {
-  name: "Anferl Lee Sugay",
-  school: "National University — BS Information Technology",
-  role: "Full Stack Developer",
-  location: "Angeles City, Philippines 🇵🇭",
-  experience: "1+ year building & deploying production apps",
-  superpowers: ["Laravel + React", "Networking", "Ethical Hacking"],
-  languages: ["English", "Filipino"],
-  currentlyLearning: ["Spring Boot", "Backend APIs", "IPv6"],
-  funFact: "I am a fun and exciting person ⚡"
-};
+I'm a **BSIT student at National University** who builds real things end to end: a Laravel + React platform running in production, a Spring Boot AI app, and Android apps on the side.
+
+When I'm not shipping features, I'm in a Packet Tracer or pfSense lab breaking and then hardening networks, or chasing flags on TryHackMe and HackTheBox.
+
+**I like owning a project from the database schema to the SSL cert.**
+
+</td>
+<td width="45%" valign="top">
+
+```yaml
+name:      Anferl Lee Sugay
+role:      Full-Stack Developer
+school:    National University, BSIT
+location:  Angeles City, PH 🇵🇭
+experience: 1+ yr shipping production apps
+languages: [English, Filipino]
+focus:
+  - Laravel + React
+  - Networking
+  - Ethical hacking
+status:    open to junior roles ✅
 ```
 
-<br clear="right" />
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 💼 Summary
-
-Junior Full-Stack Developer with over 1 year of hands-on experience building and deploying a real estate web platform using **Laravel/PHP** and **React/JavaScript**. I design scalable REST APIs, implement role-based authentication, and ship responsive interfaces. On the side, I'm a networking and security nerd: VLANs, IPsec VPNs, firewalls, and capture-the-flag boxes. I like owning a project end to end.
-
----
-
-## 🛠️ Tech Stack
+<!-- ═══════════════════════ STACK ═══════════════════════ -->
+## `~/stack`
 
 <div align="center">
 
-### ⚛️ Frontend
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,js,html,css&theme=dark" />
-
-### 🔧 Backend
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,java,spring&theme=dark" />
-
-### 🗄️ Database & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,aws,digitalocean,nginx&theme=dark" />
-
-### 📱 Mobile
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" />
-
-### 🧰 Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,jira,vscode&theme=dark" />
+| | |
+|:--:|:--|
+| **🖥️ Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,js,html,css&theme=dark" align="absmiddle" /> |
+| **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=laravel,php,java,spring,nodejs,express&theme=dark" align="absmiddle" /> |
+| **🗄️ Data** | <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&theme=dark" align="absmiddle" /> |
+| **☁️ Cloud & Infra** | <img src="https://skillicons.dev/icons?i=aws,digitalocean,nginx&theme=dark" align="absmiddle" /> |
+| **📱 Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" align="absmiddle" /> |
+| **🧰 Workflow** | <img src="https://skillicons.dev/icons?i=git,github,figma,postman,jira,vscode&theme=dark" align="absmiddle" /> |
 
 </div>
 
 <details>
-<summary><b>🔍 What I actually use each one for</b></summary>
-<br>
+<summary><b>🔍 How I actually use each layer</b></summary>
+<br/>
 
-| Layer | Tools | How I use them |
+| Layer | Tools | What I do with them |
 |:--|:--|:--|
-| **Web Frontend** | React · Vite · Tailwind · Next.js | Role-based routing, dashboards, responsive UIs |
-| **Web Backend** | Laravel · PHP · JWT · Node/Express | REST APIs, auth, email delivery (SendGrid) |
-| **Java** | Spring Boot | REST API for my AI poll app, Votelligence |
+| **Web frontend** | React · Vite · Tailwind · Next.js | Role-based routing, dashboards, responsive UIs |
+| **Web backend** | Laravel · PHP · JWT · Node/Express | REST APIs, authentication, email delivery via SendGrid |
+| **Java** | Spring Boot | REST API for Votelligence, my AI poll app |
 | **Data** | MySQL · PostgreSQL · Firebase | Relational models, real-time sync |
 | **Cloud & AI** | AWS S3 · AWS Rekognition · Google Maps API | Face collections, image storage, location features |
 | **Deployment** | DigitalOcean · Nginx · SSL | Server setup and live production hosting |
@@ -80,9 +90,97 @@ Junior Full-Stack Developer with over 1 year of hands-on experience building and
 
 </details>
 
----
+<br/>
 
-## 🛡️ Networking & Security Lab
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+## `~/projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 TierHome
+`CAPSTONE · LIVE`
+
+A housing **decision-support platform for Angeles City**. It began as a Flutter/Firebase app that ranked affordable housing by a 30%-of-income rule, then grew into a full web platform.
+
+![React](https://img.shields.io/badge/React-0a1628?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-0a1628?style=flat-square&logo=vite&logoColor=FFD62E)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a1628?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Laravel](https://img.shields.io/badge/Laravel-0a1628?style=flat-square&logo=laravel&logoColor=FF2D20)
+![MySQL](https://img.shields.io/badge/MySQL-0a1628?style=flat-square&logo=mysql&logoColor=4479A1)
+![AWS](https://img.shields.io/badge/Rekognition-0a1628?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Maps](https://img.shields.io/badge/Google_Maps-0a1628?style=flat-square&logo=googlemaps&logoColor=4285F4)
+
+[**🔗 tierhome.live →**](https://tierhome.live)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗳️ Votelligence
+`IN PROGRESS`
+
+An **AI-augmented poll and voting app**: poll generator, sentiment analysis, summaries, and duplicate-poll detection using embeddings.
+
+![React](https://img.shields.io/badge/React-0a1628?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a1628?style=flat-square&logo=springboot&logoColor=6DB33F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1628?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 NuBullStocks
+`FEB 2024 · ANDROID`
+
+Shopping app for browsing products, managing carts and placing pre-orders, with an **admin dashboard** for inventory and notifications.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0a1628?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0a1628?style=flat-square&logo=androidstudio&logoColor=3DDC84)
+![Firebase](https://img.shields.io/badge/Firebase-0a1628?style=flat-square&logo=firebase&logoColor=FFCA28)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏫 Campus Network Expansion
+`SIMULATION · NATIONAL UNIVERSITY`
+
+A **five-site campus network** with VLANs, trunking, and static/default routing, built and tested in Cisco Packet Tracer.
+
+![Cisco](https://img.shields.io/badge/Packet_Tracer-0a1628?style=flat-square&logo=cisco&logoColor=1BA0D7)
+![VLAN](https://img.shields.io/badge/VLANs-0a1628?style=flat-square&logoColor=white)
+![Routing](https://img.shields.io/badge/Static_Routing-0a1628?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧩 TierHome architecture at a glance</b></summary>
+<br/>
+
+```mermaid
+flowchart LR
+    U([User]) --> FE["React + Vite + Tailwind"]
+    FE -->|REST + JWT| API["Laravel API"]
+    API --> DB[("MySQL")]
+    API --> S3["AWS S3"]
+    API --> REK["AWS Rekognition"]
+    API --> MAIL["SendGrid"]
+    FE --> GM["Google Maps API"]
+    subgraph Prod["DigitalOcean"]
+      NG["Nginx + SSL"] --> API
+    end
+    U -.-> NG
+```
+
+</details>
+
+<br/>
+
+<!-- ═══════════════════════ SECURITY LAB ═══════════════════════ -->
+## `~/security-lab`
 
 <div align="center">
 
@@ -95,57 +193,84 @@ Junior Full-Stack Developer with over 1 year of hands-on experience building and
 
 </div>
 
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ```text
- ┌──────────────────────────────────────────────────────────┐
- │  ROUTING & SWITCHING   VLSM · VLANs · Trunking · OSPF    │
- │  PERIMETER SECURITY    Zone-Based Firewalls · pfSense    │
- │  SECURE TUNNELS        GRE · IPsec VPNs                  │
- │  MONITORING            Suricata IDS · Syslog · AAA/RADIUS│
- │  ARCHITECTURE          Multi-site hub-and-spoke designs  │
- └──────────────────────────────────────────────────────────┘
+┌─ ROUTING & SWITCHING ──────────────┐
+│ VLSM · VLANs · Trunking · OSPF     │
+├─ PERIMETER ────────────────────────┤
+│ Zone-Based Firewalls · pfSense     │
+├─ SECURE TUNNELS ───────────────────┤
+│ GRE · IPsec VPNs                   │
+├─ MONITORING & ACCESS ──────────────┤
+│ Suricata IDS · Syslog · AAA/RADIUS │
+└────────────────────────────────────┘
 ```
 
-> 🏫 Highlight: a **five-site campus network expansion** simulation for National University with VLANs, trunking, and static/default routing.
+</td>
+<td width="50%" valign="top">
 
----
+```mermaid
+flowchart TB
+    HQ{{"Hub (HQ)"}}
+    HQ --- A["Site A"]
+    HQ --- B["Site B"]
+    HQ --- C["Site C"]
+    HQ --- D["Site D"]
+    HQ === FW["Firewall / IDS"] === NET(("Internet"))
+```
 
-## 🚀 Featured Projects
+<sub>Multi-site hub-and-spoke design</sub>
 
-| Project | What it is | Stack |
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════ LEARNING ═══════════════════════ -->
+## `~/currently-learning`
+
+| Track | Focus | Status |
 |:--|:--|:--|
-| 🏠 **TierHome** <br> *Capstone* | Housing decision-support platform for Angeles City. It started as a Flutter/Firebase app ranking affordable housing by a 30%-of-income rule, then grew into a full web platform. | `React` `Vite` `Tailwind` `Laravel` `MySQL` `AWS Rekognition` `Google Maps` |
-| 🗳️ **Votelligence** <br> *In progress* | AI-augmented poll and voting app with a poll generator, sentiment analysis, summaries, and duplicate detection via embeddings. | `React` `Spring Boot` `PostgreSQL` |
-| 🛒 **NuBullStocks** <br> *Feb 2024* | Android shopping app: browse products, manage carts, place pre-orders. Admin dashboard for inventory and notifications. | `Kotlin` `Android Studio` `Firebase` |
+| ☕ **Backend & APIs** | freeCodeCamp Back End Development | ![](https://img.shields.io/badge/-in%20progress-1D9E75?style=flat-square) |
+| 🌱 **Java & Spring Boot** | Building Votelligence's REST API | ![](https://img.shields.io/badge/-in%20progress-1D9E75?style=flat-square) |
+| 🏛️ **Software architecture** | Designing systems that scale | ![](https://img.shields.io/badge/-in%20progress-1D9E75?style=flat-square) |
+| 🌐 **IPv6** | Subnetting and addressing | ![](https://img.shields.io/badge/-in%20progress-1D9E75?style=flat-square) |
+| 🏴 **Ethical hacking** | TryHackMe and HackTheBox | ![](https://img.shields.io/badge/-ongoing-0a1628?style=flat-square) |
 
----
+<br/>
 
-## 🎯 Currently Leveling Up
-
-- 🔹 Back End Development & APIs (freeCodeCamp)
-- 🔹 Java and Spring Boot
-- 🔹 Software architecture
-- 🔹 IPv6 subnetting
-- 🔹 Ethical hacking on TryHackMe and HackTheBox
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anferlleesugay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=1D9E75&icon_color=1D9E75&text_color=ffffff" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=anferlleesugay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=1D9E75&text_color=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anferlleesugay&theme=tokyonight&hide_border=true&background=0a1628&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" />
-</div>
-
----
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+## `~/stats`
 
 <div align="center">
 
-*Open to junior full-stack roles and freelance work. Let's build something.* 🤝
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=anferlleesugay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=1D9E75&icon_color=1D9E75&text_color=ffffff&border_radius=12" alt="GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=anferlleesugay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=1D9E75&text_color=ffffff&border_radius=12" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anferlleesugay&theme=tokyonight&hide_border=true&background=0a1628&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&border_radius=12" alt="Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anferlleesugay&bg_color=0a1628&color=1D9E75&line=1D9E75&point=ffffff&area=true&area_color=1D9E75&hide_border=true&radius=12" alt="Contribution graph" width="96%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:1D9E75&height=100&section=footer" width="100%" />
+<br/>
+
+<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
+<div align="center">
+
+### 🤝 Let's build something
+
+*Open to junior full-stack roles and freelance work.*
+
+[![Email](https://img.shields.io/badge/Email-alees2604@gmail.com-1D9E75?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alees2604@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-anferlleesugay-0a1628?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anferlleesugay)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:1D9E75&height=110&section=footer" width="100%" alt="" />
